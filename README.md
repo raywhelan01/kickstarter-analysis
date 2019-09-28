@@ -17,5 +17,9 @@ In this module's challenge we isolated the Kickstarter project dataset to analyz
 
 <li>In our second chart <insert here> we can see that the number of successful theater campaigns spikes dramatically in June. At first glance it seems as if June is the best time of the year to submit a fundraising project.</li>
   
+[Chart 2](https://github.com/raywhelan01/kickstarter-analysis/blob/master/Outcome%20by%20Month.png)
+  
 <li>However, by changing the chart format to show each outcome likelihood as a percentage of all projects submitted for each month, we see that the summer spike is due more to the increased number of projects submitted during these months rather than the likelihood of a successful outcome. This new chart shows that there isn't a huge benefit to submitting the poject during one time of the year or another, except that it may be wise to avoid the month of december which does show a dramatic decrease in success rates.</li>
+
+[Chart 3](https://github.com/raywhelan01/kickstarter-analysis/blob/master/Percent%20outcome%20by%20month.png)
 </ol>
