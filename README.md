@@ -9,6 +9,8 @@ In this module's challenge we isolated the Kickstarter project dataset to analyz
 <ol>
 <li>For the play category, smaller fundraising goals ultimately led to higher chances of success. While the relationship isn't entirely linear, it is clear as shown <insert chart> that the more ambitious the fundraising goal the lower the chance of success.</li>
   
+[Chart 1](https://github.com/raywhelan01/kickstarter-analysis/blob/master/Outcome%20by%20fundraising%20goal.png)
+  
 <li>However, there is one major caveat of note. While not shown in the chart, the number of projects launched rapidly diminishes as the fundraising goal increases. Thus, the statistical significance of this insight is in question as there may not be enough well-run high dollar value projects to forecast Louise's chances of success for her own project should she choose a higher rundraising goal.</li>
   
 <li>Oddly, the play subcategory doesn't have a single canceled project out of more than 600. Some more analysis on why this is the case when most other project categories have a number of canceled campaigns could reveal additional insights to aid Louise.</li>
