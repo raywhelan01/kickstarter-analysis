@@ -1,6 +1,9 @@
 # kickstarter-analysis
+
 Performing analysis on kickstarter data to uncover trends
-###Module 1 Challenge
+
+### Module 1 Challenge
+
 In this module's challenge we isolated the Kickstarter project dataset to analyze the subset of theatre projects in order to give Louise insights she can use to plan the launch of her own kickstarter project. I first looked at the outcomes of the kickstarter projects by the fundraising goal of each project to see what goal amounts had higher rates of success. Then, I analyzed the outcomes by the date of when each project launched to see when would be the optimal time for Louise to launch her project. Upon performing these analyses, several key insights were found:
 
 For the play category, smaller fundraising goals ultimately led to higher chances of success. While the relationship isn't entirely linear, it is clear as shown <insert chart> that the more ambitious the fundraising goal the lower the chance of success.
